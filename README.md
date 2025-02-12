@@ -1,6 +1,6 @@
 # AstroWeight
 
-![AstroWeight Screenshot](images/screenshot.png)
+![AstroWeight Screenshot](AstroWeight_screen.png)
 
 ## Descrizione
 **AstroWeight** è un'applicazione interattiva basata su Python e Tkinter che permette di calcolare il proprio peso e la propria età su diversi corpi celesti del sistema solare. Include informazioni dettagliate su ciascun pianeta e satellite, con immagini e link per esplorare il sistema solare in 3D.
