@@ -1,4 +1,4 @@
-🌍 AstroWeight - Calcola il tuo peso e la tua età sugli altri pianeti! 🚀
+# 🌍 AstroWeight - Calcola il tuo peso e la tua età sugli altri pianeti! 🚀
 
 AstroWeight è un'applicazione desktop sviluppata in Python con Tkinter e CustomTkinter che permette di calcolare il peso e l'età su diversi corpi celesti del nostro sistema solare. Basta inserire il proprio peso e la propria età per scoprire come cambiano su pianeti e lune con diverse gravità e periodi orbitali.
 
